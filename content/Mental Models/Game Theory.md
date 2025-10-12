@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-20T07:56:25.457-04:00","modified":"2025-10-11T10:54:00.463-04:00","tags":["mentalmodels"],"cssclasses":""}
+{"publish":true,"created":"2025-08-20T07:56:25.457-04:00","modified":"2025-10-12T10:58:22.456-04:00","tags":["mentalmodels","secondorderthinking"],"cssclasses":""}
 ---
 
 Game theory is the study of how humans behave in strategic situations. By ‘strategic’ we mean a situation in which **each person, when deciding what actions to take, must consider how others might respond to that action.**

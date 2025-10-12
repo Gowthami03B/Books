@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-12T10:40:44.789-04:00","modified":"2025-10-12T10:53:52.115-04:00","tags":["mentalmodels"],"cssclasses":""}
+{"publish":true,"created":"2025-10-12T10:40:44.789-04:00","modified":"2025-10-12T10:58:27.279-04:00","tags":["mentalmodels","secondorderthinking"],"cssclasses":""}
 ---
 
 > **And then what??**
