@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-20T07:56:25.457-04:00","modified":"2025-10-12T10:58:22.456-04:00","tags":["mentalmodels","secondorderthinking"],"cssclasses":""}
+{"publish":true,"created":"2025-08-20T07:56:25.457-04:00","modified":"2025-10-12T12:00:48.530-04:00","tags":["mentalmodels","secondorderthinking","#cooperation","long-term","win-win"],"cssclasses":""}
 ---
 
 Game theory is the study of how humans behave in strategic situations. By ‘strategic’ we mean a situation in which **each person, when deciding what actions to take, must consider how others might respond to that action.**
@@ -31,4 +31,4 @@ The winning program—called **Tit-for-Tat**—followed four simple principles:
 
 In the end, l**ife isn’t about never losing a round**. Game theory reminds us that the real strategy is **staying in the game**. 
 
-**TL;DR:** We naturally look out for ourselves. **_while selfishness can win one round, cooperation wins the final round._**
+**TL;DR:** We naturally look out for ourselves. **_while selfishness can win one round, cooperation wins the final round. A win-win outcome is the only desirable outcome!_**
